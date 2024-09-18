@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <LoginSocialGoogle
-        client_id="347888977241-qci3n0kcfp6udf8dqctdjdhk07rf7avj.apps.googleusercontent.com"
+        client_id="google clientid"
         scope="openid profile email"
         discoveryDocs="claims_supported"
         access_type="offline"

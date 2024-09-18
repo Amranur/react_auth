@@ -8,8 +8,8 @@ const port = 4000;
 app.use(cors());
 app.use(express.json());
 
-const GITHUB_CLIENT_ID = 'Ov23lidS8sgRLAPkYCCh';
-const GITHUB_CLIENT_SECRET = 'b5f0302f309ecfbc62900bb4f4baf4cbb5d1bc51';
+const GITHUB_CLIENT_ID = 'github clientid';
+const GITHUB_CLIENT_SECRET = 'github clientsecret';
 
 
 app.get("/", (req, res) => {

@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 
-const GITHUB_CLIENT_ID = 'Ov23lidS8sgRLAPkYCCh';
-const GITHUB_CLIENT_SECRET = 'b5f0302f309ecfbc62900bb4f4baf4cbb5d1bc51';
+const GITHUB_CLIENT_ID = 'github clientid';
 const REDIRECT_URI = 'http://localhost:3000'; // The same URL you set in the GitHub OAuth app
 
 // With server side 1 api call
